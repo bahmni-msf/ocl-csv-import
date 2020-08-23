@@ -18,7 +18,7 @@ ocl_api_token = '<ocl-api-token>'
 Run the Python script
 
 ```
-python csv-import.py
+$ python csv-import.py
 ```
 
 #### CSV import Guide
