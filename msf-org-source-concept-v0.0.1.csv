@@ -83,5 +83,5 @@ Mapping,MSFOCP,MSFOCP,,,048cc08a-c53b-11ea-87d0-0242ac130003,,,,,,,,,,,,,,,,Inte
 Mapping,MSFOCP,MSFOCP,,,048cc152-c53b-11ea-87d0-0242ac130003,,,,,,,,,,,,,,,,Internal,CONCEPT-SET,/orgs/MSFOCP/sources/MSFOCP/concepts/MSFF51/,/orgs/CIEL/sources/CIEL/concepts/5085/,,,,,,,,,,,,,,,
 Mapping,MSFOCP,MSFOCP,,,048cc21a-c53b-11ea-87d0-0242ac130003,,,,,,,,,,,,,,,,Internal,CONCEPT-SET,/orgs/MSFOCP/sources/MSFOCP/concepts/MSFF51/,/orgs/CIEL/sources/CIEL/concepts/5086/,,,,,,,,,,,,,,,
 Mapping,MSFOCP,MSFOCP,,,048cc2d8-c53b-11ea-87d0-0242ac130003,,,,,,,,,,,,,,,,Internal,CONCEPT-SET,/orgs/MSFOCP/sources/MSFOCP/concepts/MSFF51/,/orgs/CIEL/sources/CIEL/concepts/5089/,,,,,,,,,,,,,,,
-External Mapping,MSFOCP,MSFOCP,,,048cd3d8-c53b-11ea-87d0-0242ac130003,,,,,,,,,,,,,,,,,SAME-AS,/orgs/MSFOCP/sources/MSFOCP/concepts/MSFF49/,,,,,WHO,ICD-11-WHO,XA9FF8,,,,,,WHO,ICD-11-WHO,XA9FF8,
+External Mapping,MSFOCP,MSFOCP,,,048cd3d8-c53b-11ea-87d0-0242ac130003,,,,,,,,,,,,,,,,,SAME-AS,/orgs/MSFOCP/sources/MSFOCP/concepts/MSFF49/,,,,,,,,,,,,,WHO,ICD-11-WHO,XA9FF8,
 Source Version,MSFOCP,MSFOCP,,v0.0.1,,,,,,,,,,,Initial version of MSFOCP custom concepts,,TRUE,,,,,,,,,,,,,,,,,,,,,,
