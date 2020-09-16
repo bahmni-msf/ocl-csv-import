@@ -5,7 +5,6 @@ This is a script used to insert the Organization, Source and Concepts to OCL (Op
   - Python 2.7 or Higher (Tested in Python 2.7)
   - `ocldev` library (https://pypi.org/project/ocldev/)
 
-
 #### How to run
 Update the below 3 fields in `csv-import.py` script for your environment.
 
@@ -20,6 +19,9 @@ Run the Python script
 ```
 $ python csv-import.py
 ```
+#### Add Unicode support
+
+Use `oclresourcelist.py` to replace `~/Library/Python/2.7/lib/python/site-packages/ocldev/oclresourcelist.py` (from OCLDEV library)
 
 #### CSV import Guide
 Please follow the below link to understand the meaning of different columns and how to add the values for different objects (Org, Source, Concept, Mappings).
